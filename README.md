@@ -9,3 +9,10 @@ Most of Script will be C# that use for [Unity](https://unity.com/)<br> For [Refe
 
 # Activity Log :heart:
  - 11-Fev-2021 We finally presented the Project to Burapha University.
+ 
+## Nithi Panuthad  
+ - Role : Leader, Designer<br>
+## Thamvarut Wannachet-isra  
+ - Role : Designer, Documentator<br>
+## Borworntat Dendumrongkul
+ - Role : Programmer
